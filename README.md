@@ -19,7 +19,7 @@ Hi there, I am Andrea Testa. I am an Assistant Professor (fixed-term) at Univers
 
 <h2>My GitHub Stats</h2>
 
-  [![andrea-testa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-testa&show_icons=true&theme=radical&hide=contribs)](https://github.com/Federica129/github-readme-stats)
+  [![andrea-testa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-testa&show_icons=true&theme=radical&hide=contribs)](https://github.com/andrea-testa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-testa&layout=compact&theme=radical)](https://github.com/andrea-testa/github-readme-stats)
 
   </div>
