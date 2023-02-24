@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 I am Andrea Testa. I am an Assistant Professor (fixed-term) at University of Bologna, Italy. I am currently working on cooperative decision-making in multi-robot systems.
 
+### I’m currently working on ...
+I am one of the main mantainers of these toolboxes for cooperative robotics and distributed optimization
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=ChoiRbot)](https://github.com/OPT4SMART/ChoiRbot)
+
 ### 📫✨ Connect with me:
 
 <a href="https://www.linkedin.com/in/andrea-testa-5b09aa163/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
