@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I am Andrea Testa. I am an Assistant Professor (fixed-term) at University of Bologna, Italy. I am currently working on cooperative decision-making in multi-robot systems.
+I am Andrea Testa. I am an Assistant Professor (fixed-term) at University of Bologna, Italy. I am currently working on cooperative decision-making in multi-robot systems.
 
+### 📫✨ Connect with me:
+
+<a href="https://www.linkedin.com/in/andrea-testa-5b09aa163/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
