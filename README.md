@@ -19,7 +19,7 @@ I am Andrea Testa. I am an Assistant Professor (fixed-term) at University of Bol
 
 ### I’m currently working on ...
 I am one of the main mantainers of these toolboxes for cooperative robotics and distributed optimization
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=ChoiRbot)](https://github.com/OPT4SMART/ChoiRbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=ChoiRbot&theme=radical)](https://github.com/OPT4SMART/ChoiRbot)
 
 ### 📫✨ Connect with me:
 
