@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 
 Hi there, I am Andrea Testa. I am an Assistant Professor (fixed-term) at University of Bologna, Italy. I am currently working on cooperative decision-making in multi-robot systems.
 
-<h2>My GitHub Stats</h2>
 
-  [![andrea-testa's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-testa&show_icons=true&theme=radical&hide=contribs)](https://github.com/andrea-testa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-testa&layout=compact&theme=radical&exclude_repo=andrea-testa.github.io)](https://github.com/andrea-testa/github-readme-stats)
-
-  </div>
