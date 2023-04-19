@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Andrea Testa. I am an Assistant Professor (fixed-term) at University of Bologna, Italy. I am currently working on cooperative decision-making in multi-robot systems.
+I am Andrea Testa. I am an Assistant Professor (fixed-term) at University of Bologna, Italy. My research interest include cooperative decision making in multi-robot systems, distributed optimization, and deep learning.
 
 ### I’m currently working on ...
 I am one of the main mantainers of these toolboxes for cooperative robotics and distributed optimization
