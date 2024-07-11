@@ -24,6 +24,7 @@ I am one of the main mantainers of these toolboxes for cooperative robotics and 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=ChoiRbot&theme=dracula)](https://github.com/OPT4SMART/ChoiRbot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=crazychoir&theme=dracula)](https://github.com/OPT4SMART/crazychoir)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=DISROPT&theme=dracula)](https://github.com/OPT4SMART/DISROPT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=ros2-vicon-receiver&theme=dracula)](https://github.com/OPT4SMART/ros2-vicon-receiver)
 
 ### 📫✨ Connect with me:
 
