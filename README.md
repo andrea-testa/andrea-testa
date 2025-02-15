@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am Andrea Testa. I am an R&D Software Engineer. My research interest include cooperative decision making in multi-robot systems, distributed optimization, and deep learning.
 
 ### Past projects ...
-I am one of the main mantainers of these toolboxes for cooperative robotics and distributed optimization
+I worked on these toolboxes for cooperative robotics and distributed optimization
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=ChoiRbot&theme=dracula)](https://github.com/OPT4SMART/ChoiRbot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=crazychoir&theme=dracula)](https://github.com/OPT4SMART/crazychoir)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OPT4SMART&repo=DISROPT&theme=dracula)](https://github.com/OPT4SMART/DISROPT)
